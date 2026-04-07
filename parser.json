@@ -1,7 +1,7 @@
 {
-  "lang": "matlab",
+  "location": null,
+  "parser_version": "c2390a59016f74e7d5f75ef09510768b4f30217e",
   "url": "https://github.com/acristoffers/tree-sitter-matlab",
   "semver": false,
-  "parser_version": "c2390a59016f74e7d5f75ef09510768b4f30217e",
-  "location": null
+  "lang": "matlab"
 }
